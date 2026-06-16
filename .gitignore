@@ -1,0 +1,21 @@
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 临时文件
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 注意：feed.xml 必须提交（这是 RSS 订阅源）

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>智谱AI新闻</title>
+    <link>https://www.zhipuai.cn/zh/news</link>
+    <description>智谱AI官方新闻与资讯</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 16 Jun 2026 10:35:28 +0000</lastBuildDate>
+    <item>
+      <title>智谱首份业绩报告发布，探索AGI智能上界</title>
+      <link>https://www.zhipuai.cn/zh/news/152</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/152</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0800</pubDate>
+    </item>
+  <item>
+      <title>智谱（02513.HK）公布2025年度业绩发布会安排</title>
+      <link>https://www.zhipuai.cn/zh/news/151</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/151</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>中关村自主大模型产业联盟第一次会员大会 结果公示</title>
+      <link>https://www.zhipuai.cn/zh/news/97</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/97</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>GLM-PC 基座模型，CogAgent-9B 开源</title>
+      <link>https://www.zhipuai.cn/zh/news/76</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/76</guid>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Agent 新进展：跨 app、跨设备、更多玩法｜智谱 Agent OpenDay</title>
+      <link>https://www.zhipuai.cn/zh/news/68</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/68</guid>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>智谱与英特尔深化智能生态合作，落地端侧智谱清言和CodeGeeX智能编程助手</title>
+      <link>https://www.zhipuai.cn/zh/news/20</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/20</guid>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>智谱与中国三星宣布战略合作</title>
+      <link>https://www.zhipuai.cn/zh/news/4</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/4</guid>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>智谱携基座大模型 GLM-4-Plus 亮相 KDD，清言全新升级视频通话功能</title>
+      <link>https://www.zhipuai.cn/zh/news/69</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/69</guid>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>清言向你发起一个视频通话请求…</title>
+      <link>https://www.zhipuai.cn/zh/news/21</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/21</guid>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>智谱荣耀AI大模型技术联合实验室揭牌</title>
+      <link>https://www.zhipuai.cn/zh/news/138</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/138</guid>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>智谱首届 Z Demo Day上，这21家公司都在用bigmodel.cn</title>
+      <link>https://www.zhipuai.cn/zh/news/29</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/29</guid>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>受邀参加了智谱AI Z Demo Day，让我再一次相信 AGI ！</title>
+      <link>https://www.zhipuai.cn/zh/news/135</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/135</guid>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>“SMP-智谱大模型交叉学科基金”第二期启动申报</title>
+      <link>https://www.zhipuai.cn/zh/news/63</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/63</guid>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>智谱支持“清华大学人工智能教育赋能项目”捐赠仪式举行</title>
+      <link>https://www.zhipuai.cn/zh/news/67</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/67</guid>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>智谱携手英特尔，加速开启未来座舱时代，共同探索AI CAR未来</title>
+      <link>https://www.zhipuai.cn/zh/news/96</link>
+      <guid isPermaLink="false">https://www.zhipuai.cn/zh/news/96</guid>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0800</pubDate>
+    </item>
+    </channel>
+</rss>
