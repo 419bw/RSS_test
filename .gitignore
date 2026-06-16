@@ -20,5 +20,6 @@ Thumbs.db
 
 # 个人部署文档（不提交到仓库）
 DEPLOY.md
+SKILL.md
 
 # 注意：feed.xml 必须提交（这是 RSS 订阅源）
